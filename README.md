@@ -10,4 +10,4 @@ Environmental monitoring: Ship detection can be used to monitor and track the mo
 
 Search and rescue operations: Ship detection can help to locate missing ships or vessels in distress, enabling authorities to respond quickly and effectively to emergency situations.
 
-![alt text](https://github.com/Asad1287/Hospital_BusinessCaseStudy/venti-views-FPKnAO-CF6M-unsplash.jpg)
+![alt text](https://github.com/Asad1287/Ship_Detection_Problem/blob/main/venti-views-FPKnAO-CF6M-unsplash.jpg)
